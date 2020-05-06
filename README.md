@@ -1,1 +1,1 @@
-# allera_version_controlled_code-Multiclass_Regularized_LDA
+# Multiclass_Regularized_LDA
